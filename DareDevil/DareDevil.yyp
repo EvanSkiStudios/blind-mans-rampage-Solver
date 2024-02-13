@@ -18,6 +18,9 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"spr_player_icons","path":"sprites/spr_player_icons/spr_player_icons.yy",},},
+    {"id":{"name":"board_gen","path":"scripts/board_gen/board_gen.yy",},},
+    {"id":{"name":"_Init_","path":"scripts/_Init_/_Init_.yy",},},
     {"id":{"name":"Rm_Test","path":"rooms/Rm_Test/Rm_Test.yy",},},
   ],
   "RoomOrderNodes": [
