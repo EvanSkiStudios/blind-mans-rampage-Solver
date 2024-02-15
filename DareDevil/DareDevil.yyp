@@ -10,7 +10,9 @@
     "name": "Default",
   },
   "defaultScriptType": 1,
-  "Folders": [],
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
+  ],
   "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
@@ -20,7 +22,7 @@
   "resources": [
     {"id":{"name":"spr_player_icons","path":"sprites/spr_player_icons/spr_player_icons.yy",},},
     {"id":{"name":"board_gen","path":"scripts/board_gen/board_gen.yy",},},
-    {"id":{"name":"_Init_","path":"scripts/_Init_/_Init_.yy",},},
+    {"id":{"name":"data","path":"scripts/data/data.yy",},},
     {"id":{"name":"Rm_Test","path":"rooms/Rm_Test/Rm_Test.yy",},},
   ],
   "RoomOrderNodes": [

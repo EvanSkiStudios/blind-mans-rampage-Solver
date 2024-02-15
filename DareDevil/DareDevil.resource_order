@@ -1,9 +1,9 @@
 {
-  "FolderOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+  ],
   "ResourceOrderSettings": [
-    {"name":"spr_player_icons","order":2,"path":"sprites/spr_player_icons/spr_player_icons.yy",},
-    {"name":"board_gen","order":4,"path":"scripts/board_gen/board_gen.yy",},
-    {"name":"_Init_","order":3,"path":"scripts/_Init_/_Init_.yy",},
-    {"name":"Rm_Test","order":1,"path":"rooms/Rm_Test/Rm_Test.yy",},
+    {"name":"spr_player_icons","order":1,"path":"sprites/spr_player_icons/spr_player_icons.yy",},
+    {"name":"board_gen","order":2,"path":"scripts/board_gen/board_gen.yy",},
   ],
 }
